@@ -34,5 +34,5 @@
 
 ## 📫 Connect with me
 
-- LinkedIn: (add link)
-- Portfolio: (add link)
+- LinkedIn: https://www.linkedin.com/in/mayank-gupta04/
+- Portfolio: https://portfolio-mayank-5gp2.onrender.com/
