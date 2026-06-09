@@ -4,7 +4,7 @@
 
 🚀 Backend-Focused Full Stack Developer | Java | PHP | Vue.js  
 
-- 🎓 Final Year B.Tech CSE Student  
+- 🎓 B.Tech CSE Graduate  
 - 💼 Former Trainee Software Developer at Infoxen Technologies  
 - ⚙️ Worked on production-grade apps using Laravel, Vue.js 2 & Vuetify  
 - 🌱 Currently learning Spring Boot for backend development  
